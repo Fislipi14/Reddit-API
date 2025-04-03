@@ -1,8 +1,8 @@
 import requests
 import json
 
-CLIENT = 'A8TFsP4hYAaUiNahSf1Q8g'
-SECRET = 'trrcKVUijk8bymp1LHank8KLyHfofQ'
+CLIENT = 'Client'
+SECRET = 'Secret'
 
 CONNECT = requests.auth.HTTPBasicAuth(CLIENT, SECRET)
 
