@@ -1,0 +1,4 @@
+API reddit que extrai links de posts
+-Arquivo cache.txt armazena o historico de todos os links retirados - nunca é resetado
+-Arquivo filtrado_links.txt armazena links filtrados de videos ou imagens - resetado toda vez que o programa é executado
+-Arquivo media_links armazena todos os links extraidos da pagina - resetado toda vez que o programa é executado 
